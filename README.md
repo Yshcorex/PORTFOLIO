@@ -70,7 +70,7 @@ Before reusing any third-party assets, make sure their respective licenses permi
 
 ---
 
-***Created by YSHCOREX***
+***Created by ~YSHCOREX***
 
 
 **Medi-Caps University**
