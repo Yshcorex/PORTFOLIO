@@ -6,7 +6,7 @@ Built as part of my college Bootcamp learning journey, this project reflects my 
 
 ## ✨ Project Overview
 
-<img width="1345" height="641" alt="image" src="https://github.com/user-attachments/assets/02e94eee-f44e-491d-9232-dbe790545723" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/16b92c15-59a1-409b-bfbe-d37bf9598516" />
 
 The goal of this project is to explore portfolio presentation, organize web assets, and practice the fundamentals of frontend development.
 
